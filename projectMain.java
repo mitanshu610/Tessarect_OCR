@@ -4,9 +4,9 @@ public class projectMain
 {
 	public static void main(String[] args) 
 	{
-		String input_file="C:\\Users\\Users\\Desktop\\TestFiles\\imag1.png";
-		String output_file="C:\\Users\\Users\\Desktop\\TestFiles\\imag1";	
-		String tesseract_install_path="D:\\Software\\Tesseract-OCR\\tesseract";
+		String input_file="TestFiles\\imag1.png";
+		String output_file="TestFiles\\imag1";	
+		String tesseract_install_path="Tesseract-OCR\\tesseract";
 		String[] command =		//used to run the cmd prompt 
 	    {
 	        "cmd",		
