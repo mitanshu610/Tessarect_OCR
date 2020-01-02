@@ -1,4 +1,4 @@
-package imagToText;
+
 import java.io.PrintWriter;
 public class projectMain 
 {
